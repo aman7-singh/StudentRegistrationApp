@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <AssemblyVersion>0.1.0.0</AssemblyVersion>
+    <FileVersion>0.1.0.0</FileVersion>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <StartupObject>StudentRegistration.App</StartupObject>
+    <AnalysisLevel>5.0</AnalysisLevel>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>C:\Users\1994a\source\repos\StudentRegistrationApp\bin\</OutputPath>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resource\Images\JhonSnow.jpg" />
+    <None Remove="Resource\Images\Luffy.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Student.Data\StudentData.csproj" />
+    <ProjectReference Include="..\StudentModel\StudentDomain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resource\Images\JhonSnow.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resource\Images\Luffy.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

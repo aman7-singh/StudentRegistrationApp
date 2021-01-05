@@ -1,0 +1,13 @@
+C:\Users\1994a\source\repos\StudentRegistrationApp\bin\net5.0\StudentData.deps.json
+C:\Users\1994a\source\repos\StudentRegistrationApp\bin\net5.0\StudentData.dll
+C:\Users\1994a\source\repos\StudentRegistrationApp\bin\net5.0\ref\StudentData.dll
+C:\Users\1994a\source\repos\StudentRegistrationApp\bin\net5.0\StudentData.pdb
+C:\Users\1994a\source\repos\StudentRegistrationApp\Student.Data\obj\Debug\net5.0\StudentData.csprojAssemblyReference.cache
+C:\Users\1994a\source\repos\StudentRegistrationApp\Student.Data\obj\Debug\net5.0\StudentData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1994a\source\repos\StudentRegistrationApp\Student.Data\obj\Debug\net5.0\StudentData.AssemblyInfoInputs.cache
+C:\Users\1994a\source\repos\StudentRegistrationApp\Student.Data\obj\Debug\net5.0\StudentData.AssemblyInfo.cs
+C:\Users\1994a\source\repos\StudentRegistrationApp\Student.Data\obj\Debug\net5.0\StudentData.csproj.CoreCompileInputs.cache
+C:\Users\1994a\source\repos\StudentRegistrationApp\Student.Data\obj\Debug\net5.0\StudentData.csproj.CopyComplete
+C:\Users\1994a\source\repos\StudentRegistrationApp\Student.Data\obj\Debug\net5.0\StudentData.dll
+C:\Users\1994a\source\repos\StudentRegistrationApp\Student.Data\obj\Debug\net5.0\ref\StudentData.dll
+C:\Users\1994a\source\repos\StudentRegistrationApp\Student.Data\obj\Debug\net5.0\StudentData.pdb

@@ -1,0 +1,621 @@
+1 - 04-01-2021 00:54:50 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\StudentViewModel.cs:line 149
+1 - 04-01-2021 01:00:24 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\StudentViewModel.cs:line 149
+1 - 04-01-2021 01:05:44 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\StudentViewModel.cs:line 158
+2 - 04-01-2021 01:05:49 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\StudentViewModel.cs:line 158
+3 - 04-01-2021 01:05:57 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\StudentViewModel.cs:line 158
+1 - 04-01-2021 01:11:25 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\StudentViewModel.cs:line 158
+1 - 04-01-2021 01:22:20 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\StudentViewModel.cs:line 180
+2 - 04-01-2021 01:24:01 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\StudentViewModel.cs:line 180
+3 - 04-01-2021 01:30:46 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\StudentViewModel.cs:line 180
+1 - 04-01-2021 02:03:15 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\StudentViewModel.cs:line 180
+2 - 04-01-2021 02:03:16 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\StudentViewModel.cs:line 180
+3 - 04-01-2021 02:03:28 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\StudentViewModel.cs:line 180
+1 - 04-01-2021 04:02:48 - Error - Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'Students' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:4204053d-8acb-473f-9484-d0f9425c57f8
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at StudentRegistration.ViewModel.Helper.AddDetails.AddStudentDetails(Student student) in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\Helper\AddDetails.cs:line 14
+   at StudentRegistration.ViewModel.StudentViewModel.Add() in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\StudentViewModel.cs:line 126
+2 - 04-01-2021 04:02:48 - Error - System.InvalidOperationException: The instance of entity type 'Student' cannot be tracked because another instance with the same key value for {'RollNo'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.PaintAction(EntityEntryGraphNode`1 node)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityEntryGraphIterator.TraverseGraph[TState](EntityEntryGraphNode`1 node, Func`2 handleNode)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.AttachGraph(InternalEntityEntry rootEntry, EntityState targetState, EntityState storeGeneratedWithKeySetTargetState, Boolean forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState(InternalEntityEntry entry, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState[TEntity](TEntity entity, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.Add[TEntity](TEntity entity)
+   at StudentRegistration.ViewModel.Helper.AddDetails.AddStudentDetails(Student student) in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\Helper\AddDetails.cs:line 13
+   at StudentRegistration.ViewModel.StudentViewModel.Add() in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\StudentViewModel.cs:line 126
+3 - 04-01-2021 04:03:11 - Error - System.InvalidOperationException: The instance of entity type 'Student' cannot be tracked because another instance with the same key value for {'RollNo'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.PaintAction(EntityEntryGraphNode`1 node)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityEntryGraphIterator.TraverseGraph[TState](EntityEntryGraphNode`1 node, Func`2 handleNode)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.AttachGraph(InternalEntityEntry rootEntry, EntityState targetState, EntityState storeGeneratedWithKeySetTargetState, Boolean forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState(InternalEntityEntry entry, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState[TEntity](TEntity entity, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.Add[TEntity](TEntity entity)
+   at StudentRegistration.ViewModel.Helper.AddDetails.AddStudentDetails(Student student) in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\Helper\AddDetails.cs:line 13
+   at StudentRegistration.ViewModel.StudentViewModel.Add() in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\StudentViewModel.cs:line 126
+4 - 04-01-2021 04:03:23 - Error - Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'Students' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:4204053d-8acb-473f-9484-d0f9425c57f8
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at StudentRegistration.ViewModel.Helper.AddDetails.AddStudentDetails(Student student) in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\Helper\AddDetails.cs:line 14
+   at StudentRegistration.ViewModel.StudentViewModel.Add() in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\StudentViewModel.cs:line 126
+5 - 04-01-2021 04:04:25 - Error - System.InvalidOperationException: The instance of entity type 'Student' cannot be tracked because another instance with the same key value for {'RollNo'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.PaintAction(EntityEntryGraphNode`1 node)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityEntryGraphIterator.TraverseGraph[TState](EntityEntryGraphNode`1 node, Func`2 handleNode)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.AttachGraph(InternalEntityEntry rootEntry, EntityState targetState, EntityState storeGeneratedWithKeySetTargetState, Boolean forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState(InternalEntityEntry entry, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState[TEntity](TEntity entity, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.Add[TEntity](TEntity entity)
+   at StudentRegistration.ViewModel.Helper.AddDetails.AddStudentDetails(Student student) in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\Helper\AddDetails.cs:line 13
+   at StudentRegistration.ViewModel.StudentViewModel.Add() in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\StudentViewModel.cs:line 126
+6 - 04-01-2021 04:04:33 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\StudentViewModel.cs:line 180
+7 - 04-01-2021 04:04:48 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\StudentViewModel.cs:line 180
+8 - 04-01-2021 04:04:57 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\StudentRegistration\ViewModel\StudentViewModel.cs:line 180
+1 - 05-01-2021 11:26:32 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 178
+2 - 05-01-2021 11:26:32 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 178
+3 - 05-01-2021 11:26:45 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 178
+4 - 05-01-2021 11:26:54 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 178
+5 - 05-01-2021 11:26:54 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 178
+6 - 05-01-2021 11:26:55 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 178
+7 - 05-01-2021 11:27:06 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 178
+8 - 05-01-2021 11:27:42 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 178
+9 - 05-01-2021 11:28:10 - Error - System.InvalidOperationException: The entity type 'int' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove(Object entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Int32 rollNo) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 12
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 178
+1 - 05-01-2021 11:59:04 - Error - System.ArgumentNullException: Value cannot be null. (Parameter 'entity')
+   at Microsoft.EntityFrameworkCore.Utilities.Check.NotNull[T](T value, String parameterName)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove[TEntity](TEntity entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Student student) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 14
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 180
+2 - 05-01-2021 11:59:13 - Error - Microsoft.EntityFrameworkCore.DbUpdateConcurrencyException: Database operation expected to affect 1 row(s) but actually affected 0 row(s). Data may have been modified or deleted since entities were loaded. See http://go.microsoft.com/fwlink/?LinkId=527962 for information on understanding and handling optimistic concurrency exceptions.
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ThrowAggregateUpdateConcurrencyException(Int32 commandIndex, Int32 expectedRowsAffected, Int32 rowsAffected)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithoutPropagation(Int32 commandIndex, RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.Consume(RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at StudentRegistration.ViewModel.Helper.UpdateDetails.UpdateStudentDetails(Student student) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\UpdateDetails.cs:line 14
+   at StudentRegistration.ViewModel.StudentViewModel.Update() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 152
+1 - 05-01-2021 12:16:59 - Error - Microsoft.EntityFrameworkCore.DbUpdateConcurrencyException: Database operation expected to affect 1 row(s) but actually affected 0 row(s). Data may have been modified or deleted since entities were loaded. See http://go.microsoft.com/fwlink/?LinkId=527962 for information on understanding and handling optimistic concurrency exceptions.
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ThrowAggregateUpdateConcurrencyException(Int32 commandIndex, Int32 expectedRowsAffected, Int32 rowsAffected)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithoutPropagation(Int32 commandIndex, RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.Consume(RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at StudentRegistration.ViewModel.Helper.UpdateDetails.UpdateStudentDetails(Student student) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\UpdateDetails.cs:line 14
+   at StudentRegistration.ViewModel.StudentViewModel.Update() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 155
+2 - 05-01-2021 12:17:09 - Error - System.InvalidOperationException: The instance of entity type 'Student' cannot be tracked because another instance with the same key value for {'RollNo'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.PaintAction(EntityEntryGraphNode`1 node)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityEntryGraphIterator.TraverseGraph[TState](EntityEntryGraphNode`1 node, Func`2 handleNode)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.AttachGraph(InternalEntityEntry rootEntry, EntityState targetState, EntityState storeGeneratedWithKeySetTargetState, Boolean forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState(InternalEntityEntry entry, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState[TEntity](TEntity entity, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.Add[TEntity](TEntity entity)
+   at StudentRegistration.ViewModel.Helper.AddDetails.AddStudentDetails(Student student) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\AddDetails.cs:line 13
+   at StudentRegistration.ViewModel.StudentViewModel.Add() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 128
+3 - 05-01-2021 12:17:20 - Error - System.InvalidOperationException: The instance of entity type 'Student' cannot be tracked because another instance with the same key value for {'RollNo'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.PaintAction(EntityEntryGraphNode`1 node)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityEntryGraphIterator.TraverseGraph[TState](EntityEntryGraphNode`1 node, Func`2 handleNode)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.AttachGraph(InternalEntityEntry rootEntry, EntityState targetState, EntityState storeGeneratedWithKeySetTargetState, Boolean forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState(InternalEntityEntry entry, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState[TEntity](TEntity entity, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.Add[TEntity](TEntity entity)
+   at StudentRegistration.ViewModel.Helper.AddDetails.AddStudentDetails(Student student) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\AddDetails.cs:line 13
+   at StudentRegistration.ViewModel.StudentViewModel.Add() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 128
+4 - 05-01-2021 12:17:41 - Error - System.InvalidOperationException: The instance of entity type 'Student' cannot be tracked because another instance with the same key value for {'RollNo'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.PaintAction(EntityEntryGraphNode`1 node)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityEntryGraphIterator.TraverseGraph[TState](EntityEntryGraphNode`1 node, Func`2 handleNode)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.AttachGraph(InternalEntityEntry rootEntry, EntityState targetState, EntityState storeGeneratedWithKeySetTargetState, Boolean forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState(InternalEntityEntry entry, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState[TEntity](TEntity entity, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.Add[TEntity](TEntity entity)
+   at StudentRegistration.ViewModel.Helper.AddDetails.AddStudentDetails(Student student) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\AddDetails.cs:line 13
+   at StudentRegistration.ViewModel.StudentViewModel.Add() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 128
+1 - 05-01-2021 12:23:53 - Error - System.ArgumentNullException: Value cannot be null. (Parameter 'entity')
+   at Microsoft.EntityFrameworkCore.Utilities.Check.NotNull[T](T value, String parameterName)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove[TEntity](TEntity entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Student student) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 14
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 183
+1 - 05-01-2021 12:30:24 - Error - System.ArgumentNullException: Value cannot be null. (Parameter 'entity')
+   at Microsoft.EntityFrameworkCore.Utilities.Check.NotNull[T](T value, String parameterName)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove[TEntity](TEntity entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Student student) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 14
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 195
+1 - 05-01-2021 12:35:10 - Error - System.InvalidOperationException: The instance of entity type 'Student' cannot be tracked because another instance with the key value '{RollNo: 9}' is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.PaintAction(EntityEntryGraphNode`1 node)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityEntryGraphIterator.TraverseGraph[TState](EntityEntryGraphNode`1 node, Func`2 handleNode)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.AttachGraph(InternalEntityEntry rootEntry, EntityState targetState, EntityState storeGeneratedWithKeySetTargetState, Boolean forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState(InternalEntityEntry entry, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState[TEntity](TEntity entity, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.Add[TEntity](TEntity entity)
+   at StudentRegistration.ViewModel.Helper.AddDetails.AddStudentDetails(Student student) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\AddDetails.cs:line 13
+   at StudentRegistration.ViewModel.StudentViewModel.Add() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 138
+2 - 05-01-2021 12:35:17 - Error - Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'Students' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:33db79cb-eeac-4426-92d3-43fb0d4593c1
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at StudentRegistration.ViewModel.Helper.AddDetails.AddStudentDetails(Student student) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\AddDetails.cs:line 14
+   at StudentRegistration.ViewModel.StudentViewModel.Add() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 138
+3 - 05-01-2021 12:35:27 - Error - System.InvalidOperationException: The instance of entity type 'Student' cannot be tracked because another instance with the key value '{RollNo: 16}' is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.PaintAction(EntityEntryGraphNode`1 node)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityEntryGraphIterator.TraverseGraph[TState](EntityEntryGraphNode`1 node, Func`2 handleNode)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.AttachGraph(InternalEntityEntry rootEntry, EntityState targetState, EntityState storeGeneratedWithKeySetTargetState, Boolean forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState(InternalEntityEntry entry, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState[TEntity](TEntity entity, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.Add[TEntity](TEntity entity)
+   at StudentRegistration.ViewModel.Helper.AddDetails.AddStudentDetails(Student student) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\AddDetails.cs:line 13
+   at StudentRegistration.ViewModel.StudentViewModel.Add() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 138
+4 - 05-01-2021 12:35:32 - Error - Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'Students' when IDENTITY_INSERT is set to OFF.
+Cannot insert explicit value for identity column in table 'Students' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:33db79cb-eeac-4426-92d3-43fb0d4593c1
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at StudentRegistration.ViewModel.Helper.AddDetails.AddStudentDetails(Student student) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\AddDetails.cs:line 14
+   at StudentRegistration.ViewModel.StudentViewModel.Add() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 138
+5 - 05-01-2021 12:35:42 - Error - Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'Students' when IDENTITY_INSERT is set to OFF.
+Cannot insert explicit value for identity column in table 'Students' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:33db79cb-eeac-4426-92d3-43fb0d4593c1
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at StudentRegistration.ViewModel.Helper.AddDetails.AddStudentDetails(Student student) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\AddDetails.cs:line 14
+   at StudentRegistration.ViewModel.StudentViewModel.Add() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 138
+6 - 05-01-2021 12:35:44 - Error - System.InvalidOperationException: The instance of entity type 'Student' cannot be tracked because another instance with the key value '{RollNo: 19}' is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.PaintAction(EntityEntryGraphNode`1 node)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityEntryGraphIterator.TraverseGraph[TState](EntityEntryGraphNode`1 node, Func`2 handleNode)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.AttachGraph(InternalEntityEntry rootEntry, EntityState targetState, EntityState storeGeneratedWithKeySetTargetState, Boolean forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState(InternalEntityEntry entry, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState[TEntity](TEntity entity, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.Add[TEntity](TEntity entity)
+   at StudentRegistration.ViewModel.Helper.AddDetails.AddStudentDetails(Student student) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\AddDetails.cs:line 13
+   at StudentRegistration.ViewModel.StudentViewModel.Add() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 138
+7 - 05-01-2021 12:36:09 - Error - System.InvalidOperationException: The instance of entity type 'Student' cannot be tracked because another instance with the key value '{RollNo: 19}' is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.PaintAction(EntityEntryGraphNode`1 node)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityEntryGraphIterator.TraverseGraph[TState](EntityEntryGraphNode`1 node, Func`2 handleNode)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.AttachGraph(InternalEntityEntry rootEntry, EntityState targetState, EntityState storeGeneratedWithKeySetTargetState, Boolean forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState(InternalEntityEntry entry, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState[TEntity](TEntity entity, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.Add[TEntity](TEntity entity)
+   at StudentRegistration.ViewModel.Helper.AddDetails.AddStudentDetails(Student student) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\AddDetails.cs:line 13
+   at StudentRegistration.ViewModel.StudentViewModel.Add() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 138
+8 - 05-01-2021 12:39:15 - Error - System.InvalidOperationException: The instance of entity type 'Student' cannot be tracked because another instance with the key value '{RollNo: 19}' is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.PaintAction(EntityEntryGraphNode`1 node)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityEntryGraphIterator.TraverseGraph[TState](EntityEntryGraphNode`1 node, Func`2 handleNode)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.AttachGraph(InternalEntityEntry rootEntry, EntityState targetState, EntityState storeGeneratedWithKeySetTargetState, Boolean forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState(InternalEntityEntry entry, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState[TEntity](TEntity entity, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.Update[TEntity](TEntity entity)
+   at StudentRegistration.ViewModel.Helper.UpdateDetails.UpdateStudentDetails(Student student) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\UpdateDetails.cs:line 13
+   at StudentRegistration.ViewModel.StudentViewModel.Update() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 166
+9 - 05-01-2021 12:39:19 - Error - System.ArgumentNullException: Value cannot be null. (Parameter 'entity')
+   at Microsoft.EntityFrameworkCore.Utilities.Check.NotNull[T](T value, String parameterName)
+   at Microsoft.EntityFrameworkCore.DbContext.Remove[TEntity](TEntity entity)
+   at StudentRegistration.ViewModel.Helper.RemoveDetails.RemoveStudentDetails(Student student) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\RemoveDetails.cs:line 14
+   at StudentRegistration.ViewModel.StudentViewModel.Remove() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 195
+10 - 05-01-2021 12:39:32 - Error - System.InvalidOperationException: The instance of entity type 'Student' cannot be tracked because another instance with the key value '{RollNo: 19}' is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.PaintAction(EntityEntryGraphNode`1 node)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityEntryGraphIterator.TraverseGraph[TState](EntityEntryGraphNode`1 node, Func`2 handleNode)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.AttachGraph(InternalEntityEntry rootEntry, EntityState targetState, EntityState storeGeneratedWithKeySetTargetState, Boolean forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState(InternalEntityEntry entry, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState[TEntity](TEntity entity, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.Add[TEntity](TEntity entity)
+   at StudentRegistration.ViewModel.Helper.AddDetails.AddStudentDetails(Student student) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\AddDetails.cs:line 13
+   at StudentRegistration.ViewModel.StudentViewModel.Add() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 138
+11 - 05-01-2021 12:39:40 - Error - Microsoft.EntityFrameworkCore.DbUpdateConcurrencyException: Database operation expected to affect 1 row(s) but actually affected 0 row(s). Data may have been modified or deleted since entities were loaded. See http://go.microsoft.com/fwlink/?LinkId=527962 for information on understanding and handling optimistic concurrency exceptions.
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ThrowAggregateUpdateConcurrencyException(Int32 commandIndex, Int32 expectedRowsAffected, Int32 rowsAffected)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithoutPropagation(Int32 commandIndex, RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.Consume(RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at StudentRegistration.ViewModel.Helper.AddDetails.AddStudentDetails(Student student) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\AddDetails.cs:line 14
+   at StudentRegistration.ViewModel.StudentViewModel.Add() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 138
+12 - 05-01-2021 12:39:53 - Error - Microsoft.EntityFrameworkCore.DbUpdateConcurrencyException: Database operation expected to affect 1 row(s) but actually affected 0 row(s). Data may have been modified or deleted since entities were loaded. See http://go.microsoft.com/fwlink/?LinkId=527962 for information on understanding and handling optimistic concurrency exceptions.
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ThrowAggregateUpdateConcurrencyException(Int32 commandIndex, Int32 expectedRowsAffected, Int32 rowsAffected)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetWithoutPropagation(Int32 commandIndex, RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.Consume(RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at StudentRegistration.ViewModel.Helper.UpdateDetails.UpdateStudentDetails(Student student) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\UpdateDetails.cs:line 14
+   at StudentRegistration.ViewModel.StudentViewModel.Update() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 166
+13 - 05-01-2021 12:40:00 - Error - System.InvalidOperationException: The instance of entity type 'Student' cannot be tracked because another instance with the key value '{RollNo: 9}' is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.PaintAction(EntityEntryGraphNode`1 node)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityEntryGraphIterator.TraverseGraph[TState](EntityEntryGraphNode`1 node, Func`2 handleNode)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.AttachGraph(InternalEntityEntry rootEntry, EntityState targetState, EntityState storeGeneratedWithKeySetTargetState, Boolean forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState(InternalEntityEntry entry, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.SetEntityState[TEntity](TEntity entity, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.DbContext.Update[TEntity](TEntity entity)
+   at StudentRegistration.ViewModel.Helper.UpdateDetails.UpdateStudentDetails(Student student) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\UpdateDetails.cs:line 13
+   at StudentRegistration.ViewModel.StudentViewModel.Update() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 166
+1 - 05-01-2021 12:52:39 - Error - Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'ID'.
+Invalid column name 'ID'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:6dcbd61a-db83-4028-b5e5-be1fc5cc4cb5
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at StudentRegistration.ViewModel.Helper.AddDetails.AddStudentDetails(Student student) in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\Helper\AddDetails.cs:line 14
+   at StudentRegistration.ViewModel.StudentViewModel.Add() in C:\Users\1994a\source\repos\New folder\StudentRegistration\ViewModel\StudentViewModel.cs:line 138

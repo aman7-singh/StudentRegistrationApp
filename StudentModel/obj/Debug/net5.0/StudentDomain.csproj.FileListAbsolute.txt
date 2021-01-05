@@ -1,0 +1,12 @@
+C:\Users\1994a\source\repos\StudentRegistrationApp\bin\net5.0\StudentDomain.deps.json
+C:\Users\1994a\source\repos\StudentRegistrationApp\bin\net5.0\StudentDomain.dll
+C:\Users\1994a\source\repos\StudentRegistrationApp\bin\net5.0\ref\StudentDomain.dll
+C:\Users\1994a\source\repos\StudentRegistrationApp\bin\net5.0\StudentDomain.pdb
+C:\Users\1994a\source\repos\StudentRegistrationApp\StudentModel\obj\Debug\net5.0\StudentDomain.csprojAssemblyReference.cache
+C:\Users\1994a\source\repos\StudentRegistrationApp\StudentModel\obj\Debug\net5.0\StudentDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1994a\source\repos\StudentRegistrationApp\StudentModel\obj\Debug\net5.0\StudentDomain.AssemblyInfoInputs.cache
+C:\Users\1994a\source\repos\StudentRegistrationApp\StudentModel\obj\Debug\net5.0\StudentDomain.AssemblyInfo.cs
+C:\Users\1994a\source\repos\StudentRegistrationApp\StudentModel\obj\Debug\net5.0\StudentDomain.csproj.CoreCompileInputs.cache
+C:\Users\1994a\source\repos\StudentRegistrationApp\StudentModel\obj\Debug\net5.0\StudentDomain.dll
+C:\Users\1994a\source\repos\StudentRegistrationApp\StudentModel\obj\Debug\net5.0\ref\StudentDomain.dll
+C:\Users\1994a\source\repos\StudentRegistrationApp\StudentModel\obj\Debug\net5.0\StudentDomain.pdb
